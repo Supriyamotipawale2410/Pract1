@@ -1,0 +1,26 @@
+T-systems
+==============
+
+HTTP vs HTTPS: What's the Difference?
+
+HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are two protocols used for transferring data over the internet. The main difference between them is the level of security provided.
+
+HTTP:
+
+HTTP is the original protocol used for transferring data over the internet.
+It is a stateless protocol, meaning that each request is independent of the previous one.
+Data is sent in plain text, making it vulnerable to eavesdropping and tampering.
+No encryption is used, making it insecure for sensitive data.
+HTTPS:
+
+HTTPS is an extension of HTTP that adds an extra layer of security.
+It uses encryption to protect data in transit, making it more secure.
+HTTPS uses a Secure Sockets Layer (SSL) or Transport Layer Security (TLS) certificate to establish a secure connection.
+Data is encrypted, making it difficult for hackers to intercept and read.
+Key differences:
+
+Security: HTTPS is more secure than HTTP due to encryption.
+Trust: HTTPS is considered more trustworthy than HTTP, as it is more difficult for hackers to impersonate a website.
+SEO: Google favors HTTPS websites in search engine rankings.
+In summary, if you're handling sensitive data or want to ensure a secure connection, use HTTPS. If you're just transferring non-sensitive data, HTTP might be sufficient. Would you like me to elaborate on any specific aspect of HTTP vs HTTPS?
+
